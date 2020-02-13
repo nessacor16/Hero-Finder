@@ -1,0 +1,17 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body, html {
+  
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+ 
+}
+
+.container {
+    background-color: bisque !important;
+    opacity: 0.7;
+}
